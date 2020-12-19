@@ -19,3 +19,5 @@ luego instalar los siguientes packages
 > npm install fs --save
 
 > npm install keepalive --save
+
+Por ultimo agregar tu token en el archivo *.env*
