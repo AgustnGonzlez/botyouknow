@@ -4,7 +4,7 @@ Primero iniciar npm de la siguiente forma:
 
 *npm init -y*
 
-Puego instalar los packages dde la siguiente forma:
+Luego instalar los packages dde la siguiente forma:
 
 > npm install discord.js --save
 
