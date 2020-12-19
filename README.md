@@ -6,10 +6,16 @@ primero iniciar npm
 
 luego instalar los siguientes packages
 
-*npm install discord.js --save
-npm install dotenv --save
-npm install express --save
-npm install ping-monitor --save
-npm install mega-dtbs --save
-npm install fs --save
-npm install keepalive --save*
+> npm install discord.js --save
+
+> npm install dotenv --save
+
+> npm install express --save
+
+> npm install ping-monitor --save
+
+> npm install mega-dtbs --save
+
+> npm install fs --save
+
+> npm install keepalive --save
