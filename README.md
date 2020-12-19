@@ -1,10 +1,10 @@
 # botyouknow
 ## bot totalmente ANASHE
-primero iniciar npm
+Primero iniciar npm de la siguiente forma:
 
 *npm init -y*
 
-luego instalar los siguientes packages
+Puego instalar los packages dde la siguiente forma:
 
 > npm install discord.js --save
 
