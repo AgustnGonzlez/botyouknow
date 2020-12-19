@@ -1,0 +1,4 @@
+{name: ":crown: Owner", value: msg.guild.owner.user.username, inline: true},
+{name: ":keyboard: Canales", value: msg.guild.channels.cache.size, inline: true}
+{name: ":boy: Miembros", value: msg.guild.roles.cache.size, inline: true}
+{name: ":book: Numero de roles", value: msg.guild.roles.cache.map(r => `${r}`).join(" | "), inline: true}
